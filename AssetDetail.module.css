@@ -1,0 +1,40 @@
+/* AssetDetail.module.css */
+.header {
+  background-color: #333;
+  padding: 20px;
+  text-align: center;
+}
+
+h1 {
+  margin: 0;
+}
+
+main {
+  padding: 20px;
+  text-align: center;
+}
+
+.loadingBar {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+}
+
+.assetFound {
+  color: green;
+}
+
+.assetNotFound {
+  color: red;
+}
+
+.customRedirectText {
+  font-size: 18px;
+  margin-top: 20px;
+}
+
+.footer {
+  background-color: #333;
+  padding: 10px;
+  text-align: center;
+}
